@@ -3,35 +3,35 @@
 **Product Designer · Developer Platforms & AI**<br>
 Salesforce · Vancouver, Canada
 
-I care about how people work with AI: understanding what's happening, knowing when to step in, and getting to a result they can use.
+Turning complex workflows into tools people can understand, direct, and trust. Product direction, interaction design, and working software.
 
 <br>
 
-### Currently working on
+<sub>CURRENTLY WORKING ON</sub>
 
-**[Agentforce Vibes](https://developer.salesforce.com/docs/platform/agentforcevibes/guide/afv-overview.html)**
+### [Agentforce Vibes](https://developer.salesforce.com/docs/platform/agentforcevibes/guide/afv-overview.html)
 
-Shipping the front end for agentic developer tools, designing interaction patterns directly in code.
+Shipping the front end for agentic developer tools, designing interaction patterns directly in code. Connecting planning, agent coordination, reviewing changes, and deployment into a coherent developer experience.
 
 <br>
 
-### Selected work
+<sub>SELECTED WORK</sub>
 
-**Orchestrate · Agentforce Vibes**
+### Orchestrate
 
-Role: **Design lead**
+**Role: Design lead** · Agentforce Vibes
 
-Orchestrate started as a design exploration and grew into a product priority through prototypes, internal demos, and close work with Product and Engineering. The idea was to help developers take on bigger tasks with AI while staying in control.
+From design exploration to product priority. A visual workflow for delegating complex work to agents, following progress, and stepping in at the right moment.
 
-I turned the plan into a Kanban board and made deployment part of the workflow, so developers could follow the work from the initial request through to deploying it.
+Turned the plan into a Kanban board and made deployment part of the workflow.
 
 [![Orchestrate design prototype showing the conversation and plan alongside a Kanban task board, with Overview, Tasks, and Deployment tabs.](assets/orchestrate-prototype.png)](assets/orchestrate-prototype.png)
 
-*Orchestrate · Design prototype*
+*Orchestrate · Design prototype — keeping the plan, agent progress, and deployment in one workspace.*
 
 <br>
 
-**Vibes UI**
+### Vibes UI
 
 Shared React component library and Storybook for agentic developer tools. 60+ components, built with AI-assisted development.
 
