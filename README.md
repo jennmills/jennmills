@@ -1,27 +1,23 @@
 # Jennifer Mills
 
 **Product Designer · Developer Platforms & AI**<br>
-Salesforce · Vancouver, Canada
+Vancouver, Canada
 
 Turning complex workflows into tools people can understand, direct, and trust. Product direction, interaction design, and working software.
 
 <br>
 
-<sub>CURRENTLY WORKING ON</sub>
+### What I'm working on
 
-### [Agentforce Vibes](https://developer.salesforce.com/docs/platform/agentforcevibes/guide/afv-overview.html)
+Lead designer at Salesforce, working on [Agentforce Vibes](https://developer.salesforce.com/docs/platform/agentforcevibes/guide/afv-overview.html).
 
 Shipping the front end for agentic developer tools, designing interaction patterns directly in code. Connecting planning, agent coordination, reviewing changes, and deployment into a coherent developer experience.
 
 <br>
 
-<sub>SELECTED WORK</sub>
+### Selected work
 
-### Orchestrate
-
-**Role: Design lead** · Agentforce Vibes
-
-From design exploration to product priority. A visual workflow for delegating complex work to agents, following progress, and stepping in at the right moment.
+**Orchestrate** — From design exploration to product priority. A visual workflow for delegating complex work to agents, following progress, and stepping in at the right moment.
 
 Turned the plan into a Kanban board and made deployment part of the workflow.
 
@@ -31,10 +27,10 @@ Turned the plan into a Kanban board and made deployment part of the workflow.
 
 <br>
 
-### Vibes UI
-
-Shared React component library and Storybook for agentic developer tools. 60+ components, built with AI-assisted development.
+**Vibes UI** — Shared React component library and Storybook for agentic developer tools. 60+ components, built with AI-assisted development.
 
 <br>
+
+### Connect
 
 [X / @jlaurenmills](https://x.com/jlaurenmills)
