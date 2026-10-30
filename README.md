@@ -15,7 +15,7 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 <br>
 
-### Selected work
+### My work
 
 **[Orchestrate](https://vibes20-prototype-7dd42890ee23.herokuapp.com/)** — From design exploration to product priority: a visual workflow connecting a Kanban task board with deployment, so developers can delegate complex work, follow agent progress, and step in when needed.
 
@@ -24,6 +24,8 @@ Shipping the front end for agentic developer tools, designing interaction patter
 <br>
 
 **[Vibes UI](https://vibes-ui-storybook-9e79be4ce5b9.herokuapp.com/)** — Shared React component library and Storybook for agentic developer tools. 60+ components, built with AI-assisted development.
+
+<a href="https://vibes-ui-storybook-9e79be4ce5b9.herokuapp.com/?path=/docs/organisms-welcome--docs"><img src="assets/vibes-ui-storybook.png" alt="Vibes UI Storybook showing the component library, Agentforce Vibes welcome interface, and React usage example." width="600"></a>
 
 <br>
 
