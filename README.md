@@ -17,17 +17,13 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 ### Selected work
 
-**Orchestrate** — From design exploration to product priority. A visual workflow for delegating complex work to agents, following progress, and stepping in at the right moment.
+**[Orchestrate](https://vibes20-prototype-7dd42890ee23.herokuapp.com/)** — From design exploration to product priority: a visual workflow connecting a Kanban task board with deployment, so developers can delegate complex work, follow agent progress, and step in when needed.
 
-Turned the plan into a Kanban board and made deployment part of the workflow.
-
-[![Orchestrate design prototype showing the conversation and plan alongside a Kanban task board, with Overview, Tasks, and Deployment tabs.](assets/orchestrate-prototype.png)](assets/orchestrate-prototype.png)
-
-*Orchestrate · Design prototype — keeping the plan, agent progress, and deployment in one workspace.*
+<a href="assets/orchestrate-prototype.png"><img src="assets/orchestrate-prototype.png" alt="Orchestrate design prototype showing the conversation and plan alongside a Kanban task board, with Overview, Tasks, and Deployment tabs." width="600"></a>
 
 <br>
 
-**Vibes UI** — Shared React component library and Storybook for agentic developer tools. 60+ components, built with AI-assisted development.
+**[Vibes UI](https://vibes-ui-storybook-9e79be4ce5b9.herokuapp.com/)** — Shared React component library and Storybook for agentic developer tools. 60+ components, built with AI-assisted development.
 
 <br>
 
